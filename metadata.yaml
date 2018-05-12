@@ -1,0 +1,28 @@
+_repo: The-Renewal-of-Life--How-and-When-to-Tell-the-Story-to-the-Young_26280
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26280-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Morley, Margaret Warner
+    alias: Morley, Margaret W.
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '8252'
+    url: http://www.gutenberg.org/2009/agents/8252
+description: ''
+gutenberg_issued: '2008-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physiology -- Study and teaching'
+- !lcc 'HQ'
+- !lcsh 'Reproduction'
+title: The Renewal of Life; How and When to Tell the Story to the Young
+url: http://www.gutenberg.org/ebooks/26280
